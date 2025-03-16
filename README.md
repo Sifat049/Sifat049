@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **C++ Java**
 
 - 📫 How to reach me **mishkat049@gmail.com**
-- 📫 How to reach me **@gmail.com**
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
