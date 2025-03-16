@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sifat049" alt="sifat049" /></a> </p>
 
-- 🌱 I’m currently learning **C++ ,Java**
+- 🌱 I’m currently learning **C++ Java**
 
 - 📫 How to reach me **mishkat049@gmail.com**
-- 📫 How to reach me ****
+- 📫 How to reach me **@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
