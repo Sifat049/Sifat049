@@ -23,42 +23,11 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifat049&show_icons=true&locale=en&layout=compact" alt="sifat049" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifat049&show_icons=true&locale=en&layout=compact" alt="sifat049" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sifat049&show_icons=true&locale=en" alt="sifat049" /></p>
-[![snake gif](https://raw.githubusercontent.com/Sifat049/Sifat049/main/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Sifat049)
-[![snake gif](https://raw.githubusercontent.com/Sifat049/Sifat049/main/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/Sifat049)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sifat049&" alt="sifat049" /></p>
 
 [
 ](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-name: github-snake
-
-on:
-  schedule:
-    - cron: '0 0 * * *'    # প্রতিদিন একবার (UTC) রান করবে — ইচ্ছা করলে বদলাও
-  workflow_dispatch: {}    # ম্যানুয়ালি চালানোর জন্য
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate contribution snake
-        uses: platane/snk@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: Sifat049
-          # include_private: true   # প্রাইভেট contributions দেখাতে চাইলে uncomment করে true করো
-          # scale: 20                # চাইলে scale / size কনফিগার করা যায় (পরামিটারগুলো Action README-এ দেখো)
-
-      - name: Commit & push SVG
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "chore: update contribution snake" || echo "No changes to commit"
-          git push
