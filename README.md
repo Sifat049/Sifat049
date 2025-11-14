@@ -33,3 +33,32 @@
 
 [
 ](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+name: github-snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'    # প্রতিদিন একবার (UTC) রান করবে — ইচ্ছা করলে বদলাও
+  workflow_dispatch: {}    # ম্যানুয়ালি চালানোর জন্য
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: platane/snk@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: Sifat049
+          # include_private: true   # প্রাইভেট contributions দেখাতে চাইলে uncomment করে true করো
+          # scale: 20                # চাইলে scale / size কনফিগার করা যায় (পরামিটারগুলো Action README-এ দেখো)
+
+      - name: Commit & push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: update contribution snake" || echo "No changes to commit"
+          git push
