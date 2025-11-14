@@ -27,7 +27,8 @@
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifat049&show_icons=true&locale=en&layout=compact" alt="sifat049" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sifat049&show_icons=true&locale=en" alt="sifat049" /></p>
-
+[![snake gif](https://raw.githubusercontent.com/Sifat049/Sifat049/main/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Sifat049)
+[![snake gif](https://raw.githubusercontent.com/Sifat049/Sifat049/main/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/Sifat049)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sifat049&" alt="sifat049" /></p>
 
 [
