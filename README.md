@@ -53,5 +53,4 @@ Stay consistent. Stay dangerous. Keep building.
 
 <img src="https://raw.githubusercontent.com/Sifat049/Sifat049/output/github-contribution-grid-snake-dark.svg" />
 
-[
-](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
