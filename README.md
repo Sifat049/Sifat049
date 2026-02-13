@@ -1,5 +1,5 @@
 
-<!-- ================= CYBERPUNK HACKER README ================= -->
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00F7FF,100:ff00e5&height=240&section=header&text=Mishkatul%20Bary%20Sifat&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cyberpunk%20CP%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20Backend%20Learner&descAlignY=62"/>
 
@@ -45,11 +45,12 @@ diff
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sifat049&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sifat049&no-frame=true" />
 </p>
+
 
 🎮 Hacker Mindset
 
 Stay consistent. Stay dangerous. Keep building.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00e5,50:00F7FF,100:00ff88&height=150&section=footer&animation=twinkling"/> ```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00e5,50:00F7FF,100:00ff88&height=150&section=footer&animation=twinkling"/>
