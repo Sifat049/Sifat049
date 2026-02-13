@@ -23,7 +23,7 @@
 
 # 👨‍💻 About Me
 
-```diff
+
 + 💻 Competitive Programmer
 + 🌱 Currently mastering C++ & Java
 + 🧠 Focused on DSA & Problem Solving
