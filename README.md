@@ -16,7 +16,8 @@
 " width="750" />
 </p>
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/c0a377a2-9412-4f2d-ae86-3d21e2354562)
+  <img src="![WhatsApp GIF123 2026-02-17 at 21 35 29](https://github.com/user-attachments/assets/7152bdfe-4496-4c4f-8c49-c646f71fe512)
+
 " width="750" />
 </p>
 <p align="center">
