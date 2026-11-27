@@ -1,8 +1,4 @@
-
-
-
-
-
+ 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&
   color=0:00ff88,50:00F7FF,100:ff00e5&height=240&section=header&text=Mishkatul%20Bary%20Sifat&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cyberpunk%20CP%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20Backend%20Learner&descAlignY=62"/>
 
@@ -14,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sifat049&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Sifat049?style=for-the-badge&color=00F7FF" />
   <img src="https://img.shields.io/github/stars/Sifat049?style=for-the-badge&color=ff00e5" />
+  
 </p>
 
 <p align="center">
